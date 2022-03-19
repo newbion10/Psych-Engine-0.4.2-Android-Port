@@ -1,0 +1,31 @@
+{
+	"storyName": "thats swell",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "menulol",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"coked-up",
+			"edd",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "eddsworld"
+}
