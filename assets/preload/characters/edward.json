@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				-110
+			],
+			"loop": true,
+			"fps": 18,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				51,
+				-130
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-70,
+				-234
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-36,
+				87
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-80,
+				-123
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				10
+			],
+			"anim": "catch",
+			"fps": 18,
+			"name": "catch",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/edward",
+	"position": [
+		90,
+		50
+	],
+	"healthicon": "edd",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		135,
+		60
+	],
+	"camera_position": [
+		30,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}
